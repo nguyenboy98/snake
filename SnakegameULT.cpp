@@ -311,7 +311,7 @@ void showScore()
 //THIS IS SPARTA!
 int main()
 {
-	resizeConsole(500, 460);
+	resizeConsole(560, 460);
 	ShowConsoleCursor(false);
 	menugame();
 	GUImap();
